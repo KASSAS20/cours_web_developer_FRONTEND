@@ -157,6 +157,7 @@ body {
 .skils h2{
     position: absolute;
     display: block;
+    width: 60vw;
     top: 20%;
     left: 50%;
     transform: translate(-50%, -100%);
