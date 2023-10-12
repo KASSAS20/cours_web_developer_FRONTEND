@@ -157,6 +157,27 @@ body {
     left: 50%;
     transform: translate(-50%, -100%);
 }
+.skils ul{
+    position: absolute;
+    display: block;
+    width: 94vw;
+    columns: 3;
+    color: rgb(221, 221, 221);
+    font-size: 2vw;
+    font-family: 'Nonito', ;
+    text-align: left;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    list-style-image: url(src/imgonline-com-ua-Resize-VIfoVCGD0JL.png);
+    
+}
+
+.skils li{
+    padding-bottom: 3vw;
+    padding-right: 5vw ;
+    height: 10vw;
+}
 .menu{
     position: fixed;
     display: flex;
